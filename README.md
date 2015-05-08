@@ -1,2 +1,2 @@
 # OrderBook-Simulation
-This program simulate an orderbook of stocks.
+This program simulates an orderbook of stocks.
